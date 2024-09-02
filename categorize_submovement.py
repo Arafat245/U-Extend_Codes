@@ -1,3 +1,4 @@
+# This code is for categorize
 import pandas as pd
 import numpy as np
 
