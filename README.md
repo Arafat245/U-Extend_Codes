@@ -80,10 +80,10 @@ conda install -c conda-forge fdasrsf seaborn statsmodels numpy pandas matplotlib
 
 | File | Description | Format | Example |
 |------|-------------|---------|---------|
-| `ys_*` | Time series measurements | Numeric array | Movement trajectories |
-| `pids_*` | Participant identifiers | Numeric array | `[1, 1, 2, 2, ...]` |
-| `visits_*` | Visit/session labels | String array | `['baseline', 'followup1', ...]` |
-| `cohorts_*` | Group assignments | String array | `['control', 'treatment', ...]` |
+| `ys_*` | Time series gyroscope measurements | Numeric array | Movement trajectories |
+| `pids_*` | Participant identifiers | Numeric array | `[1, 2, 3, 4, ...]` |
+| `visits_*` | Visit dates | Datetime array | `['7/30/24', '6/3/24', ...]` |
+| `cohorts_*` | Group assignments | String array | `['Control', 'DMD', ...]` |
 
 ## 📖 Usage
 
