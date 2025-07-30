@@ -15,10 +15,7 @@
 - [Data Structure](#data-structure)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [Citation](#citation)
-- [License](#license)
-
+  
 ## 🔍 Overview
 
 This repository contains the complete analysis pipeline for our research on functional data analysis of movement patterns. The project focuses on:
