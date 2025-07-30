@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange.svg)](https://jupyter.org/)
 
-> Functional data analysis of longitudinal arm curl and knock movement data using advanced statistical methods.
+> Functional data analysis of arm curl and knock movement data using advanced statistical methods.
 
 ## 📋 Table of Contents
 
